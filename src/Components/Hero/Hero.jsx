@@ -13,11 +13,12 @@ const Hero = () => {
       <div className="Hero-action">
         <div className="Hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
         <div className='Hero-resume'>
-          <a href='/resume.pdf.pdf' target='_blank' rel='noopener norefferer'>My resume
+          <a href="/resume.pdf.pdf"target='_blank' rel='noopener norefferer'>My resume
             </a>
             </div>
       </div>
       </div>
+
     </div>
   )
 }
